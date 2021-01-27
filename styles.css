@@ -1,0 +1,62 @@
+/* 
+COLOR PALETTE
+https://coolors.co/9ee493-635255-ce7b91-c0e8f9-b8d3d1
+#9EE493 - Granny Smith Apple
+#635255 - Liver/Brown
+#CE7B91 - Puce/pink
+#C0E8F9 - Columbia blue 
+#B8D3D1 - opal/grey */
+
+/* Global Styles
+-----------------------------------*/
+body {
+    color: #635255; 
+}
+img{
+    width: 300px;
+}
+a {
+    color: #635255;
+}
+a:hover {
+    text-decoration: none;
+}
+
+/* Profile
+-----------------------------------*/
+header {
+    background: #CE7B91;
+}
+
+/* Projects
+-----------------------------------*/
+.projects {
+    background: #B8D3D1;
+}
+.projects a {
+}
+.projects .btn {
+    color: #C0E8F9;
+    background: #635255;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+.projects .btn:hover {
+    background: rgba(99,82,85,80%); 
+}
+
+/* Work Experience
+-----------------------------------*/
+.work-experience {
+    background: #C0E8F9;
+}
+
+/* Education
+-----------------------------------*/
+
+/* Contant Info
+-----------------------------------*/
+footer {
+    background: #9EE493; 
+}
